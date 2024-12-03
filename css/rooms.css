@@ -172,7 +172,7 @@ footer {
     margin: 2rem 0rem;
     display: flex;
     justify-content: center;
-
+     
 }
 
 .r-counter-cont{
@@ -287,6 +287,7 @@ footer {
     }
   
     .image-container {
+      display: flex;
       width: 100%; 
     }
   
@@ -301,6 +302,7 @@ footer {
   
     .slide-img {
       width: 100%; 
+      object-fit: cover;
     }
 }
 #upper-room-section{
