@@ -223,6 +223,7 @@ a {
 .box-div {
     display: flex;
     justify-content: center;
+    text-align: center;
     background-color: #93C572;
     width: 40rem;
     height: 25rem;
@@ -336,12 +337,16 @@ a {
     }
 
     .box-div {
+        display: flex;
+        justify-content: center;
+        text-align: center;
         background-color: #93C572;
         width: 90%;
         max-width: 40rem;
         padding: 20px;
         box-sizing: border-box;
     }
+    
 
     #Adress {
         display: flex;
