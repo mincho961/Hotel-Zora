@@ -184,6 +184,7 @@ footer {
 }
 @media (max-width: 768px) {
    .about-box{
+    font-size: small;
     font-family:'Times New Roman', Times, serif;
    }
 }
